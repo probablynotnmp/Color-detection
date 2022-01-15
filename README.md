@@ -13,8 +13,10 @@ Color detection is required for object recognition, and it is also utilised in a
  
   
 ## OUTPUT
+<img src="https://github.com/sudi050/ML-Project/blob/main/output/1.jpg" width="300" height="300"/> <img src="https://github.com/sudi050/ML-Project/blob/main/output/2.jpg" width="300" height="300"/><img src="https://github.com/sudi050/ML-Project/blob/main/output/4.jpg" width="410"/>
   
-                                                      
+
+                                                       
 # Group Members
 - Anagha R
 - Devika S Menon
