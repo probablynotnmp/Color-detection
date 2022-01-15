@@ -7,6 +7,14 @@ Color detection is required for object recognition, and it is also utilised in a
 
 ### This project uses Machine Learning to extract a set number of colors from an image. This is an implementation of detecting multiple colors in real-time using Python programming language. We are going to perform both Color detection and color labeling on objects in images. We then present a pie chart describing colors found in a given image.
 
+## INPUT
+<img src="https://github.com/sudi050/ML-Project/blob/main/images/1.jpg" width="250"/> <img src="https://github.com/sudi050/ML-Project/blob/main/images/2.png" width="300" height="300"/><img src="https://github.com/sudi050/ML-Project/blob/main/images/4.jpg" width="410"/>
+  
+ 
+  
+## OUTPUT
+  
+                                                      
 # Group Members
 - Anagha R
 - Devika S Menon
