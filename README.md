@@ -16,8 +16,3 @@
   <img src="/images/4.jpg" width="350" height="300" hspace="20"/><img src="/output/4.jpg" width="350" height="300"/><br/>
 </p>
                                                        
-# Group Members
-- Anagha R
-- Devika S Menon
-- E Annapoorna 
-- Sudhin S
